@@ -103,7 +103,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
 
     conn.on('open', async () => {
         console.log(
-            chalk.green.bold('✅ Login successful!')
+            chalk.green.bold('✅ Login settayittund!')
         );
 
         console.log(
@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Deadpool as working! 😍')
+            chalk.green.bold(' onayittund aliya enjoy 😍')
         );
     });
     
@@ -237,7 +237,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______~ 𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝 ~_____🕊️♥️~*' +
+                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______~ 𝙱𝙾𝚃𝚃𝙰𝙽𝙽𝙰𝙽 ~_____🕊️♥️~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n'
                                     , MessageType.text);
                             }
