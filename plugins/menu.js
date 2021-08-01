@@ -17,10 +17,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️ Shahid Shazz✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️ JR NIHAL ✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝕊𝕙𝕒𝕙𝕚𝕕 𝕤𝕙𝕒𝕫𝕫 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝕁ℝ ℕ𝕀ℍ𝔸𝕃 𝐛𝐨𝐭.
             *𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝*
 
 ■□■□■□■□■□■□■□■□■□■□
@@ -78,7 +78,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝■□■□■□■□■□
+■□■□■□■□■□𝕁ℝℕ𝕀ℍ𝔸𝕃■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -134,8 +134,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
 ⚠️ex  attp Deadpool
 ■□■□■□■□■□■□■□■□■□■□
-═════💢𝔻𝕖𝕒𝕕𝕡𝕠𝕠𝕝💢═════
-▣▣▣▣▣▣▣▣▣𝕊𝕙𝕒𝕙𝕚𝕕𝕤𝕙𝕒𝕫𝕫▣▣▣▣▣▣▣▣▣▣▣
+════CODDED BY:JR NIHAL════
+▣▣▣▣▣▣▣▣▣NIHAL SIR▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
